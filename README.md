@@ -40,7 +40,7 @@ Você pode:
 - Baixar o projeto como `.zip` aqui no GitHub (`Code > Download ZIP`)
 - Ou clonar com `git`:
   ```bash
-  git clone https://github.com/seu-usuario/str_read.git
+  git clone git clone https://github.com/maromo71/str_read.git
   ```
 
 ---
