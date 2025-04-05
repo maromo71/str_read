@@ -3,7 +3,7 @@ project(str_read C)
 
 set(CMAKE_C_STANDARD 11)
 
-include_directories(src)
+include_directories(include)
 
 add_executable(str_read
         src/str_read.c

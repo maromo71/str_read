@@ -52,14 +52,14 @@ build cmake_object_order_depends_target_str_read: phony || CMakeFiles/str_read.d
 build CMakeFiles/str_read.dir/src/str_read.c.o: C_COMPILER__str_read_unscanned_Debug /Users/marcosmoraes/str_read/src/str_read.c || cmake_object_order_depends_target_str_read
   DEP_FILE = CMakeFiles/str_read.dir/src/str_read.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  INCLUDES = -I/Users/marcosmoraes/str_read/src
+  INCLUDES = -I/Users/marcosmoraes/str_read/include
   OBJECT_DIR = CMakeFiles/str_read.dir
   OBJECT_FILE_DIR = CMakeFiles/str_read.dir/src
 
 build CMakeFiles/str_read.dir/src/main.c.o: C_COMPILER__str_read_unscanned_Debug /Users/marcosmoraes/str_read/src/main.c || cmake_object_order_depends_target_str_read
   DEP_FILE = CMakeFiles/str_read.dir/src/main.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  INCLUDES = -I/Users/marcosmoraes/str_read/src
+  INCLUDES = -I/Users/marcosmoraes/str_read/include
   OBJECT_DIR = CMakeFiles/str_read.dir
   OBJECT_FILE_DIR = CMakeFiles/str_read.dir/src
 
