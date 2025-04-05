@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.28)
+project(str_read C)
+
+set(CMAKE_C_STANDARD 11)
+
+include_directories(src)
+
+add_executable(str_read
+        src/str_read.c
+        src/include/str_read.h
+        src/main.c)

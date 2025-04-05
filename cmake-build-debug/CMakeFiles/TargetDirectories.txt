@@ -1,0 +1,3 @@
+/Users/marcosmoraes/str_read/cmake-build-debug/CMakeFiles/str_read.dir
+/Users/marcosmoraes/str_read/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/str_read/cmake-build-debug/CMakeFiles/rebuild_cache.dir
