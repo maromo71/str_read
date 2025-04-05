@@ -119,7 +119,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "src/include/str_read.h",
+			"path" : "include/str_read.h",
 			"sourceGroupIndex" : 1
 		},
 		{

@@ -7,5 +7,5 @@ include_directories(src)
 
 add_executable(str_read
         src/str_read.c
-        src/include/str_read.h
+        include/str_read.h
         src/main.c)

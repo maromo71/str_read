@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "include/str_read.h"
+#include "../include/str_read.h"
 
 void str_read(char *buffer, size_t tamanho, const char *mensagem) {
     printf("%s", mensagem);

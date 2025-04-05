@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "include/str_read.h"
+#include "../include/str_read.h"
 
 int main() {
     char nome[50];
